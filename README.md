@@ -1,4 +1,4 @@
 # Lifetime-simulations
 To simulation effective lifetime and apparent lifetime from Shockley-Read-Hall statistics
 Simulation can be done in steady-state mode or transient mode
-No assumption of Δn = Δp
+No assumption of &delta n = Δp
